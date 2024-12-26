@@ -23,15 +23,15 @@ Clone the repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/yourusername/divinetalk.git
+git clone https://github.com/isHan-8/Frontend-task.git
 
 2. Navigate to the Project Directory
 Move into the project directory:
 
 bash
 Copy code
-cd divinetalk
-3. Install Dependencies
+cd my-app
+3. Install Dependencies 
 Ensure you have Node.js and npm installed. Then, install the project dependencies:
 
 bash
@@ -76,6 +76,7 @@ Modular Components: Components were broken down into reusable and maintainable u
 Commenting and Documentation: Where necessary, code has been commented to explain complex logic or important decisions.
 Naming Conventions: Consistent naming conventions for components and CSS classes were used.
 Hosting
-The application has been deployed on Vercel (or Netlify) for easy sharing and access. You can view the live version here:
 
-Live Demo: https://your-app-name.vercel.app (or Netlify URL)
+The application has been deployed on  Netlify for easy sharing and access. You can view the live version here:
+
+Live Demo: https://amazing-klepon-be1def.netlify.app/ 
