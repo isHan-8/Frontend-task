@@ -11,7 +11,6 @@ The **DivineTalk Web Application** is a responsive web page designed to work sea
 - **Responsive Design**: Fully optimized for mobile, tablet, and desktop views.
 - **Modern UI/UX**: Followed design guidelines for a polished look.
 - **Interactive Elements**: Smooth transitions, hover effects, and dynamic content.
-- **Form Handling**: Includes form inputs with basic validation and interactivity.
 - **Navigation**: Fully responsive header and navigation menu.
 
 ---
@@ -47,21 +46,27 @@ Move into the project directory:
 bash
 Copy code
 cd my-app
+
+
+
 3. Install Dependencies 
 Ensure you have Node.js and npm installed. Then, install the project dependencies:
 
 bash
 Copy code
 npm install
+
+
+
 4. Run the Application
 After the dependencies are installed, start the development server:
 
 bash
 Copy code
 npm start
-The application should now be accessible at http://localhost:3000.
+  The application should now be accessible at http://localhost:3000.
 
-UI Library Used
+ UI Library Used
 For styling and layout, TailwindCSS was used, a utility-first CSS framework that helps in quickly building custom designs with minimal effort.
 
 TailwindCSS was chosen because of its flexibility and the ability to rapidly create responsive layouts without writing custom CSS. The utility-first approach ensures that styles are highly reusable and maintainable.
